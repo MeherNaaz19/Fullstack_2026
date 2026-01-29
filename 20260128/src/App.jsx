@@ -4,7 +4,7 @@ import Course from "./components/Course.jsx";
 
 function App() {
   return (
-    <div>
+    <div className="app-container">
       <Welcome />
       <Course />
     </div>
